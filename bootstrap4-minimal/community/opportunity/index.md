@@ -41,7 +41,7 @@ description: news and event in SBCLTER
       </div>
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="/assets/img/community/launch_instrument.jpg" alt="slide 2">
+      <img class="d-block w-100" src="/assets/img/community/launch_instrument2.jpg" alt="slide 2">
       <div class="carousel-caption d-none d-md-block">
         <div class="title">Oceanographic Research</div>
       </div>
